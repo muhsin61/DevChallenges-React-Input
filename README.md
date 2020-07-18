@@ -1,3 +1,4 @@
+Demo: https://codesandbox.io/embed/reactjs-input-pf7rg?fontsize=14&hidenavigation=1&theme=dark&view=preview
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
