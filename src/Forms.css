@@ -1,0 +1,99 @@
+div{
+    position: relative;
+    text-align: left;
+}
+input[type=text]{
+    padding: 10px;
+    outline: none ;
+    border: 1px solid #828282;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background: none;
+    box-sizing: border-box;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+input[type=text]:hover{
+    border: 1px solid #333333;
+}
+input[type=text]:focus{
+    border: 2px solid #2962FF;
+}
+p{
+    position: relative;
+    display: block;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+.label1{
+    font-size: 12px;
+    line-height: 17px;
+    text-align: left;
+    color: #333333;
+}
+.label2{
+    font-size: 10px;
+    line-height: 14px;
+    color: #828282;
+}
+.error{
+    border: 1px solid #D32F2F!important;
+}
+.error:focus{
+    border: 2px solid #D32F2F!important;
+}
+.disabled{
+    background: #F2F2F2!important;
+    border: 1px solid #E0E0E0!important;
+    cursor: not-allowed!important;
+}
+.err{
+    color: #D32F2F;
+}
+.sm{
+    padding: 7px!important;
+}
+.md{
+    padding: 12px!important;
+}
+.Icon{
+    position: relative;
+    display: inline-block;
+    color: #828282;
+}
+.startIcon{
+    top: -33px;
+    left: 5px;
+}
+.endIcon{
+    top: -33px;
+    left: 220px;
+}
+.midEnd{
+    top: -33px;
+}
+.smalEnd{
+    top: -30px;
+}
+.mid{
+    top: -34px!important;
+}
+.fulEnd{
+    left: 0;
+    left: 95%!important;
+}
+.push{
+    padding-left: 35px!important;
+}
+.pull{
+    padding-right: 35px!important;
+}
+.fullWidth{
+    width: 100%;
+}
